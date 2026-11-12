@@ -1,16 +1,16 @@
 {
-  "name": "az-cli",
-  "version": "1.0.0",
-  "description": "az-cli skill — Scaffold production-ready TypeScript CLI tools with Bun, citty, consola, and figlet",
-  "keywords": ["claude", "skills", "cli", "scaffold", "typescript", "bun"],
-  "author": "jjuidev",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jjuidev/az-cli"
-  },
-  "skills": {
-    "directory": ".",
-    "installPath": "az-cli"
-  }
+	"name": "az-cli",
+	"version": "2.0.0",
+	"description": "az-cli skill — scaffold TypeScript CLIs with commander, @clack/prompts, tsdown and Changesets",
+	"keywords": ["claude", "skills", "cli", "scaffold", "typescript", "commander", "tsdown"],
+	"author": "jjuidev",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jjuidev/az-cli"
+	},
+	"skills": {
+		"directory": ".",
+		"installPath": "az-cli"
+	}
 }
